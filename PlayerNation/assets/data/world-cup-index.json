@@ -1,0 +1,645 @@
+{
+  "competition": "FIFA World Cup 2018",
+  "matches": [
+    {
+      "id": 2057954,
+      "label": "Russia - Saudi Arabia, 5 - 0",
+      "date": "2018-06-14",
+      "homeTeam": "Russia",
+      "awayTeam": "Saudi Arabia",
+      "homeScore": 5,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057955,
+      "label": "Egypt - Uruguay, 0 - 1",
+      "date": "2018-06-15",
+      "homeTeam": "Egypt",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057956,
+      "label": "Russia - Egypt, 3 - 1",
+      "date": "2018-06-19",
+      "homeTeam": "Russia",
+      "awayTeam": "Egypt",
+      "homeScore": 3,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057957,
+      "label": "Uruguay - Saudi Arabia, 1 - 0",
+      "date": "2018-06-20",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Saudi Arabia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057958,
+      "label": "Uruguay - Russia, 3 - 0",
+      "date": "2018-06-25",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Russia",
+      "homeScore": 3,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057959,
+      "label": "Saudi Arabia - Egypt, 2 - 1",
+      "date": "2018-06-25",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Egypt",
+      "homeScore": 2,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057960,
+      "label": "Portugal - Spain, 3 - 3",
+      "date": "2018-06-15",
+      "homeTeam": "Portugal",
+      "awayTeam": "Spain",
+      "homeScore": 3,
+      "awayScore": 3,
+      "stage": "Group"
+    },
+    {
+      "id": 2057961,
+      "label": "Morocco - Iran, 0 - 1",
+      "date": "2018-06-15",
+      "homeTeam": "Morocco",
+      "awayTeam": "Iran",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057962,
+      "label": "Portugal - Morocco, 1 - 0",
+      "date": "2018-06-20",
+      "homeTeam": "Portugal",
+      "awayTeam": "Morocco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057963,
+      "label": "Iran - Spain, 0 - 1",
+      "date": "2018-06-20",
+      "homeTeam": "Iran",
+      "awayTeam": "Spain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057964,
+      "label": "Iran - Portugal, 1 - 1",
+      "date": "2018-06-25",
+      "homeTeam": "Iran",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057965,
+      "label": "Spain - Morocco, 2 - 2",
+      "date": "2018-06-25",
+      "homeTeam": "Spain",
+      "awayTeam": "Morocco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057966,
+      "label": "France - Australia, 2 - 1",
+      "date": "2018-06-16",
+      "homeTeam": "France",
+      "awayTeam": "Australia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057967,
+      "label": "Peru - Denmark, 0 - 1",
+      "date": "2018-06-16",
+      "homeTeam": "Peru",
+      "awayTeam": "Denmark",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057968,
+      "label": "France - Peru, 1 - 0",
+      "date": "2018-06-21",
+      "homeTeam": "France",
+      "awayTeam": "Peru",
+      "homeScore": 1,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057969,
+      "label": "Denmark - Australia, 1 - 1",
+      "date": "2018-06-21",
+      "homeTeam": "Denmark",
+      "awayTeam": "Australia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057970,
+      "label": "Denmark - France, 0 - 0",
+      "date": "2018-06-26",
+      "homeTeam": "Denmark",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057971,
+      "label": "Australia - Peru, 0 - 2",
+      "date": "2018-06-26",
+      "homeTeam": "Australia",
+      "awayTeam": "Peru",
+      "homeScore": 0,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057972,
+      "label": "Argentina - Iceland, 1 - 1",
+      "date": "2018-06-16",
+      "homeTeam": "Argentina",
+      "awayTeam": "Iceland",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057973,
+      "label": "Croatia - Nigeria, 2 - 0",
+      "date": "2018-06-16",
+      "homeTeam": "Croatia",
+      "awayTeam": "Nigeria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057974,
+      "label": "Argentina - Croatia, 0 - 3",
+      "date": "2018-06-21",
+      "homeTeam": "Argentina",
+      "awayTeam": "Croatia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "stage": "Group"
+    },
+    {
+      "id": 2057975,
+      "label": "Nigeria - Iceland, 2 - 0",
+      "date": "2018-06-22",
+      "homeTeam": "Nigeria",
+      "awayTeam": "Iceland",
+      "homeScore": 2,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057976,
+      "label": "Nigeria - Argentina, 1 - 2",
+      "date": "2018-06-26",
+      "homeTeam": "Nigeria",
+      "awayTeam": "Argentina",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057977,
+      "label": "Iceland - Croatia, 1 - 2",
+      "date": "2018-06-26",
+      "homeTeam": "Iceland",
+      "awayTeam": "Croatia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057978,
+      "label": "Brazil - Switzerland, 1 - 1",
+      "date": "2018-06-17",
+      "homeTeam": "Brazil",
+      "awayTeam": "Switzerland",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057979,
+      "label": "Costa Rica - Serbia, 0 - 1",
+      "date": "2018-06-17",
+      "homeTeam": "Costa Rica",
+      "awayTeam": "Serbia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057980,
+      "label": "Brazil - Costa Rica, 2 - 0",
+      "date": "2018-06-22",
+      "homeTeam": "Brazil",
+      "awayTeam": "Costa Rica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057981,
+      "label": "Serbia - Switzerland, 1 - 2",
+      "date": "2018-06-22",
+      "homeTeam": "Serbia",
+      "awayTeam": "Switzerland",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057982,
+      "label": "Serbia - Brazil, 0 - 2",
+      "date": "2018-06-27",
+      "homeTeam": "Serbia",
+      "awayTeam": "Brazil",
+      "homeScore": 0,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057983,
+      "label": "Switzerland - Costa Rica, 2 - 2",
+      "date": "2018-06-27",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Costa Rica",
+      "homeScore": 2,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057984,
+      "label": "Germany - Mexico, 0 - 1",
+      "date": "2018-06-17",
+      "homeTeam": "Germany",
+      "awayTeam": "Mexico",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057985,
+      "label": "Sweden - Korea Republic, 1 - 0",
+      "date": "2018-06-18",
+      "homeTeam": "Sweden",
+      "awayTeam": "Korea Republic",
+      "homeScore": 1,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057986,
+      "label": "Germany - Sweden, 2 - 1",
+      "date": "2018-06-23",
+      "homeTeam": "Germany",
+      "awayTeam": "Sweden",
+      "homeScore": 2,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057987,
+      "label": "Korea Republic - Mexico, 1 - 2",
+      "date": "2018-06-23",
+      "homeTeam": "Korea Republic",
+      "awayTeam": "Mexico",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057988,
+      "label": "Korea Republic - Germany, 2 - 0",
+      "date": "2018-06-27",
+      "homeTeam": "Korea Republic",
+      "awayTeam": "Germany",
+      "homeScore": 2,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057989,
+      "label": "Mexico - Sweden, 0 - 3",
+      "date": "2018-06-27",
+      "homeTeam": "Mexico",
+      "awayTeam": "Sweden",
+      "homeScore": 0,
+      "awayScore": 3,
+      "stage": "Group"
+    },
+    {
+      "id": 2057990,
+      "label": "Belgium - Panama, 3 - 0",
+      "date": "2018-06-18",
+      "homeTeam": "Belgium",
+      "awayTeam": "Panama",
+      "homeScore": 3,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2057991,
+      "label": "Tunisia - England, 1 - 2",
+      "date": "2018-06-18",
+      "homeTeam": "Tunisia",
+      "awayTeam": "England",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057992,
+      "label": "Belgium - Tunisia, 5 - 2",
+      "date": "2018-06-23",
+      "homeTeam": "Belgium",
+      "awayTeam": "Tunisia",
+      "homeScore": 5,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057993,
+      "label": "England - Panama, 6 - 1",
+      "date": "2018-06-24",
+      "homeTeam": "England",
+      "awayTeam": "Panama",
+      "homeScore": 6,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057994,
+      "label": "England - Belgium, 0 - 1",
+      "date": "2018-06-28",
+      "homeTeam": "England",
+      "awayTeam": "Belgium",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2057995,
+      "label": "Panama - Tunisia, 1 - 2",
+      "date": "2018-06-28",
+      "homeTeam": "Panama",
+      "awayTeam": "Tunisia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057996,
+      "label": "Poland - Senegal, 1 - 2",
+      "date": "2018-06-19",
+      "homeTeam": "Poland",
+      "awayTeam": "Senegal",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057997,
+      "label": "Colombia - Japan, 1 - 2",
+      "date": "2018-06-19",
+      "homeTeam": "Colombia",
+      "awayTeam": "Japan",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2057998,
+      "label": "Poland - Colombia, 0 - 3",
+      "date": "2018-06-24",
+      "homeTeam": "Poland",
+      "awayTeam": "Colombia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "stage": "Group"
+    },
+    {
+      "id": 2057999,
+      "label": "Japan - Senegal, 2 - 2",
+      "date": "2018-06-24",
+      "homeTeam": "Japan",
+      "awayTeam": "Senegal",
+      "homeScore": 2,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2058000,
+      "label": "Japan - Poland, 0 - 1",
+      "date": "2018-06-28",
+      "homeTeam": "Japan",
+      "awayTeam": "Poland",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058001,
+      "label": "Senegal - Colombia, 0 - 1",
+      "date": "2018-06-28",
+      "homeTeam": "Senegal",
+      "awayTeam": "Colombia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058002,
+      "label": "Uruguay - Portugal, 2 - 1",
+      "date": "2018-06-30",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058003,
+      "label": "France - Argentina, 4 - 3",
+      "date": "2018-06-30",
+      "homeTeam": "France",
+      "awayTeam": "Argentina",
+      "homeScore": 4,
+      "awayScore": 3,
+      "stage": "Group"
+    },
+    {
+      "id": 2058004,
+      "label": "Spain - Russia, 1 - 1 (P)",
+      "date": "2018-07-01",
+      "homeTeam": "Spain",
+      "awayTeam": "Russia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058005,
+      "label": "Croatia - Denmark, 1 - 1 (P)",
+      "date": "2018-07-01",
+      "homeTeam": "Croatia",
+      "awayTeam": "Denmark",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058006,
+      "label": "Brazil - Mexico, 2 - 0",
+      "date": "2018-07-02",
+      "homeTeam": "Brazil",
+      "awayTeam": "Mexico",
+      "homeScore": 2,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2058007,
+      "label": "Belgium - Japan, 3 - 2",
+      "date": "2018-07-02",
+      "homeTeam": "Belgium",
+      "awayTeam": "Japan",
+      "homeScore": 3,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2058008,
+      "label": "Sweden - Switzerland, 1 - 0",
+      "date": "2018-07-03",
+      "homeTeam": "Sweden",
+      "awayTeam": "Switzerland",
+      "homeScore": 1,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2058009,
+      "label": "Colombia - England, 1 - 1 (P)",
+      "date": "2018-07-03",
+      "homeTeam": "Colombia",
+      "awayTeam": "England",
+      "homeScore": 1,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058010,
+      "label": "Uruguay - France, 0 - 2",
+      "date": "2018-07-06",
+      "homeTeam": "Uruguay",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2058011,
+      "label": "Brazil - Belgium, 1 - 2",
+      "date": "2018-07-06",
+      "homeTeam": "Brazil",
+      "awayTeam": "Belgium",
+      "homeScore": 1,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2058012,
+      "label": "Russia - Croatia, 2 - 2 (P)",
+      "date": "2018-07-07",
+      "homeTeam": "Russia",
+      "awayTeam": "Croatia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2058013,
+      "label": "Sweden - England, 0 - 2",
+      "date": "2018-07-07",
+      "homeTeam": "Sweden",
+      "awayTeam": "England",
+      "homeScore": 0,
+      "awayScore": 2,
+      "stage": "Group"
+    },
+    {
+      "id": 2058014,
+      "label": "France - Belgium, 1 - 0",
+      "date": "2018-07-10",
+      "homeTeam": "France",
+      "awayTeam": "Belgium",
+      "homeScore": 1,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2058015,
+      "label": "Croatia - England, 2 - 1 (E)",
+      "date": "2018-07-11",
+      "homeTeam": "Croatia",
+      "awayTeam": "England",
+      "homeScore": 2,
+      "awayScore": 1,
+      "stage": "Group"
+    },
+    {
+      "id": 2058016,
+      "label": "Belgium - England, 2 - 0",
+      "date": "2018-07-14",
+      "homeTeam": "Belgium",
+      "awayTeam": "England",
+      "homeScore": 2,
+      "awayScore": 0,
+      "stage": "Group"
+    },
+    {
+      "id": 2058017,
+      "label": "France - Croatia, 4 - 2",
+      "date": "2018-07-15",
+      "homeTeam": "France",
+      "awayTeam": "Croatia",
+      "homeScore": 4,
+      "awayScore": 2,
+      "stage": "Group"
+    }
+  ]
+}
